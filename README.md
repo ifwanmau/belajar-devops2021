@@ -1,2 +1,2 @@
-# belajar-github
-Repository untuk belajar github
+# belajar-devops2021
+Repository untuk belajar materi devops
